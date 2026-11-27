@@ -1,0 +1,7 @@
+
+# Enonce du projet (ne pas pousser)
+Algorithmique_et_Complexit*.pdf
+
+# Python
+__pycache__/
+*.pyc
